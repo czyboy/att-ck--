@@ -1,2 +1,2 @@
-# att-ck--
-att&amp;ck中文翻译， V9版本
+att&ck（v9版本）中文翻译项目
+原文链接：https://attack.mitre.org/
